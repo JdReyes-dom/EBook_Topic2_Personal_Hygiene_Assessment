@@ -64,7 +64,7 @@ const QUIZ_QUESTIONS = [
     id: 6,
     grade: 'Digital Values',
     subject: 'Comprehension',
-    question: 'Why did Ash decide to check her smart hygiene helper?',
+    question: 'Why is it important that Ash did not clean herself right away when her smart helper first reminded her?',
     choices: {
       a: 'Her feathers felt dirty and uncomfortable.',
       b: 'She wanted to play a game.',
