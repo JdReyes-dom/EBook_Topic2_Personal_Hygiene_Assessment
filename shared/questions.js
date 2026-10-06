@@ -57,7 +57,7 @@ const QUIZ_QUESTIONS = [
     grade: 'Digital Values',
     subject: 'Comprehension',
     question: 'What happened to Ash\'s feathers after exploring?',
-    choices: { a: 'They became colorful.', b: 'They became wet.', c: 'They became dusty.', d: 'They disappeared.' },
+    choices: { a: 'they became colorful.', b: 'they became wet.', c: 'they became dusty.', d: 'they disappeared.' },
     correct: 'c'
   },
   {
