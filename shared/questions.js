@@ -28,7 +28,7 @@ const QUIZ_QUESTIONS = [
     id: 3,
     grade: 'Digital Values',
     subject: 'Application',
-    question: 'You wake up late and only have a few minutes before school. Which habit shows you are still taking care of your personal hygiene?',
+    question: 'You wake up late and only have a few minutes before school. Which habit shows you are taking care of your personal hygiene?',
     choices: {
       a: 'Skip washing your face and brushing your teeth to save time.',
       b: 'Quickly brush your teeth, wash your face, and change into clean clothes.',
